@@ -1,0 +1,3 @@
+Author: NGO HOANG GIA
+
+This is an Android Project to interface an IR Sensor MLX90620 with the Android based device. The Android Device would read in data from the IR Sensor and display the value grid on top of the normal device's camera preview.
